@@ -1,295 +1,716 @@
 
 ***
 
-# <projectName>
+# Seanpm2001 Code of Conduct
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+# Draft 19 : 2025, April 14th
 
-# By:
+Only the latest verified version of the code of conduct is followed. A version must be verified for at least 1 week before it is valid.
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+| Versions (version history) |
+|---|
+| Draft 1 - 2025, March 27th (❌️ unverified, too incomplete) |
+| Draft 2 - 2025, March 28th (❌️ unverified, too incomplete) |
+| Draft 3 - 2025, March 29th (❌️ unverified, too incomplete) |
+| Draft 4 - 2025, March 30th (❌️ unverified, too incomplete) |
+| Draft 5 - 2025, March 31st (❌️ unverified, too incomplete) |
+| Draft 6 - 2025, April 1st (❌️ unverified, too incomplete) |
+| Draft 7 - 2025, April 2nd (❌️ unverified, too incomplete) |
+| Draft 8 - 2025, April 3rd (❌️ unverified, too incomplete) |
+| Draft 9 - 2025, April 4th (❌️ unverified, too incomplete) |
+| Draft 10 - 2025, April 5th (❌️ unverified, too incomplete) |
+| Draft 11 - 2025, April 6th (❌️ unverified, too incomplete) |
+| Draft 12 - 2025, April 7th (❌️ unverified, too incomplete) |
+| Draft 13 - 2025, April 8th (❌️ unverified, too incomplete) |
+| Draft 14 - 2025, April 9th (❌️ unverified, too incomplete) |
+| Draft 15 - 2025, April 10th (❌️ unverified, too incomplete) |
+| Draft 16 - 2025, April 11th (❌️ unverified, too incomplete) |
+| Draft 17 - 2025, April 12th (❌️ unverified, too incomplete) |
+| Draft 18 - 2025, April 13th (❌️ unverified, too incomplete) |
+| Draft 19 - 2025, April 14th (❌️ unverified, too incomplete) |
 
-### Top
+| ℹ️ | Work here has stalled out for now, as no new updates to the code itself have been created in 15 days, yet new revisions of the document are being made daily |
+|---|---|
+| ℹ️ | - |
 
-# `README.md`
+The deadline of April 14th to develop the CoC before publishing was not met.
+
+| DAY | EXPANDED COUNTER |
+|---|---|
+| 01 | V5: NO CHANGE |
+| 02 | V6: NO CHANGE |
+| 03 | V7: NO CHANGE |
+| 04 | V8: NO CHANGE |
+| 05 | V9: NO CHANGE |
+| 06 | V10: NO CHANGE |
+| 07 | V11: NO CHANGE |
+| 08 | V12: NO CHANGE |
+| 09 | V13: NO CHANGE |
+| 10 | V14: NO CHANGE |
+| 11 | V15: NO CHANGE |
+| 12 | V16: NO CHANGE |
+| 13 | V17: NO CHANGE |
+| 14 | V18: NO CHANGE |
+| 15 | V19: NO CHANGE |
+
+AI/MACHINE GENERATED CONTENT POLICY
+
+| [:octocat: `Code of conduct repository`](https://github.com/seanpm2001/Code-of-Conduct/) [:octocat: `Seanpm2001 Code of Conduct repository`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/) |
+|---|
+| In use | Development |
+
+# PREAMBLE
+
+Coming soon
+
+# Chapters
+
+> Core ethics
+
+- §Ethics
+- §Newcomers
+- §Privacy
+- §Style guides
+- §Creativity
+- §Credit
+- §Attribution
+- §Evil
+- - §What is evil?
+
+> Development practices
+
+- §Bug reporting
+- §Security reporting
+- §Source code comments
+- §Source code style
+- §Schedules
+- §Maintenance
+- §Discussions
+- §Issues
+- §Pull requests
+- §Merging
+- §Spelling and grammar
+- §Release schedule
+- §Errors
+- §Forks
+- §Stars
+- §Software testing
+- §Tagging
+- §Discussions
+- §Time
+- §Moderation
+- §RFCs
+- §Archival
+- §Services
+- §Software
+- §Software platforms
+- §Other sites
+- §OS platforms
+
+> Discrimination and harassment
+
+- §Slurs
+- §Trolling
+- §Bullying
+- §Intimidation
+- §Blackmail
+- §Violence
+- §Threats
+- §Sexism
+- §Slavery
+- §Master and main
+- §Segregation
+- §Profanity
+- §Age
+
+> Symbols
+
+- §Hate symbols
+
+> Sexuality
+
+- §Gender
+- §Sexual orientation
+- §Erotica
+- §Pornography
+- §Acceptance
+- §Consent
+
+> Politics
+
+- §Allegiance
+- §Nationalism
+- §Supremacy
+- §Voting
+- §Fascism
+
+> Manipulation
+
+- §Phishing
+
+> Monetization
+
+- §Cryptomining
+- §Paywalls
+- §Advertising
+- - §Adblocking
+- §Sponsors
+
+> Teams and teamwork
+
+- §Working Groups
+- §Steering group
+- §Competition
+
+> Publicity
+
+- §Criticism
+- §Proprietary
+- §Secrecy
+- §Leaks
+- §Blocks
+- §Blocklists
+- §Contact
+- §Email
+- §Contributions
+- §Language
+
+> Misinformation
+
+- §Conspiracy theories
+- §Fact checking
+
+> Beliefs
+
+- §Religion
+- §Irreligion
+
+> Expression
+
+- §Begging
+- §Humility
+- §Anger
+- §Sadness
+- §Depression
+- §Shame
+- - §Shaming
+- - §Cancel culture
+- §Cults
+- §Remix
+- §Remix culture
+- §Culture jamming
+- §Protesting
+- §Megalomania
+- §Culture
+- §Jargon
+- §Defeatism
+- §Humor
+
+> Legal
+
+- §Government
+- §Copyright
+- §Copyleft
+- §Trademarks
+- §Patents
+
+> Military
+
+- §Military ethics
+
+> Business
+
+- §Corporate
+- §Rivalries
+- §Hostile takeover
+- §Criminal history
+- §Resume
+- §Trade
+- §Diversity
+- §Maintainers
+- §Bribery
+- §Sanctions
+
+> Health/medicine
+
+- §Hippocratic oath
+- §Drugs
+- §Medicine
+
+> Malware
+
+- §Ransomware
+- §Malware
+- §Spyware
+- §DRM
+
+> Data
+
+- §User data
+- §Telemetry and data collection
+- §Identity theft
+- §Tracking
+
+> AI
+
+- §Data mining
+- §Attribution
+- §Generated content
+- §Misinformation
+- §Responsibility of AI
+
+> Unsorted sections:
+
+- None
 
 ***
 
-## Read this article in a different language
+# Core ethics
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+## Ethics
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+## Newcomers
 
-***
+Newcomers are always welcome to Seanpm2001 repositories. Tasks will be set aside for newcomers, but if they are up for a challenge, they can take on more advanced tasks though, with the aid of another developer to help guide them.
 
-# Index
+A very important principle to remember is to not bite the newcomer (don't attack them just for being a newcomer) everyone here starts out at 0, and even the most professional contributors started out as newcomers.
 
-[00.0 - Top](#Top)
+## Privacy
 
-> [00.1 - Title](#<projectName>)
+## Style guides
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+Seanpm2001 projects use style guides to enforce how they are written and developed. These style guides can be found at [:octocat: `Seanpm2001 Styleguides`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
 
-> [00.3 - Index](#Index)
+## Creativity
 
-[01.0 - Description](#RepositoryName)
+## Credit
 
-[02.0 - About](#About)
+_Not to be confused with attribution._
 
-[03.0 - Wiki](#Wiki)
+Every contributor gets credit for their contributions, and has the right to be added to the credits file for the project.
 
-[04.0 - Version history](#Version-history)
+## Attribution
 
-[05.0 - Software status](#Software-status)
+_Not to be confused with credit._
 
-[06.0 - Sponsor info](#Sponsor-info)
+Attribution is extremely important for any project. Plagiarism is not tolerated.
 
-[07.0 - Contributers](#Contributers)
+## Evil
 
-[08.0 - Issues](#Issues)
+### What is evil?
 
-> [08.1 - Current issues](#Current-issues)
+---
 
-> [08.2 - Past issues](#Past-issues)
+# Development practices
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+## Bug reporting
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+## Security reporting
 
-[09.0 - Resources](#Resources)
+## Source code comments
 
-[10.0 - Contributing](#Contributing)
+## Source code style
 
-[11.0 - About README](#About-README)
+## Schedules
 
-[12.0 - README Version history](#README-version-history)
+## Maintenance
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
+## Discussions
 
 ## Issues
 
-### Current issues
+## Pull requests
 
-* None at the moment
+## Merging
 
-* No other current issues
+## Spelling and grammar
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+## Release schedule
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+## Errors
 
-**TL;DR**
+## Forks
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+## Stars
 
-### Past issues
+## Software testing
 
-* None at the moment
+## Tagging
 
-* No other past issues
+## Discussions
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+## Time
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+## Moderation
 
-**TL;DR**
+## RFCs
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+## Archival
 
-### Past pull requests
+## Services
 
-* None at the moment
+## Software
 
-* No other past pull requests
+## Software platforms
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+## Other sites
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+## OS platforms
 
-**TL;DR**
+---
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+# Discrimination and harassment
 
-### Active pull requests
+## Slurs
 
-* None at the moment
+## Trolling
 
-* No other active pull requests
+## Bullying
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+## Intimidation
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+## Blackmail
 
-**TL;DR**
+## Violence
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+## Threats
 
-***
+## Sexism
 
-## Resources
+## Slavery
 
-Here are some other resources for this project:
+## Master and main
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+## Segregation
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+## Profanity
 
-No other resources at the moment.
+## Age
 
-***
+---
 
-## Contributing
+# Symbols
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+## Hate symbols
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
-***
 
-## About README
+---
 
-File type: `Markdown (*.md)`
+# Sexuality
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+## Gender
 
-Line count: `0,296`
+## Sexual orientation
 
-***
+## Erotica
 
-## README version history
+## Pornography
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+## Acceptance
 
-> Changes:
+## Consent
 
-> * Started the file
 
-> * Added the title section
+---
 
-> * Added the index
+# Politics
 
-> * Added the about section
+## Allegiance
 
-> * Added the Wiki section
+## Nationalism
 
-> * Added the version history section
+## Supremacy
 
-> * Added the issues section.
+## Voting
 
-> * Added the past issues section
+## Fascism
 
-> * Added the past pull requests section
+---
 
-> * Added the active pull requests section
+# Manipulation
 
-> * Added the contributors section
+## Phishing
 
-> * Added the contributing section
+---
 
-> * Added the about README section
+# Monetization
 
-> * Added the README version history section
+## Cryptomining
 
-> * Added the resources section
+## Paywalls
 
-> * Added a software status section, with a DRM free sticker and message
+## Advertising
 
-> * Added the sponsor info section
+### Adblocking
 
-> * No other changes in version 0.1
+## Sponsors
 
-Version 1 (Coming soon)
+---
 
-> Changes:
+# Teams and teamwork
 
-> * Coming soon
+## Working Groups
 
-> * No other changes in version 1
+## Steering group
 
-Version 2 (Coming soon)
+## Competition
 
-> Changes:
+---
 
-> * Coming soon
+# Publicity
 
-> * No other changes in version 2
+## Criticism
 
-***
+## Proprietary
 
-### You have reached the end of the README file
+## Secrecy
 
-[Back to top](#Top) [Exit](https://github.com)
+## Leaks
 
-### EOF
+## Blocks
+
+## Blocklists
+
+## Contact
+
+## Email
+
+## Contributions
+
+## Language
+
+---
+
+# Misinformation
+
+## Conspiracy theories
+
+## Fact checking
+
+---
+
+# Beliefs
+
+## Religion
+
+## Irreligion
+
+---
+
+# Expression
+
+## Begging
+
+## Humility
+
+## Anger
+
+## Sadness
+
+## Depression
+
+## Shame
+
+### Shaming
+
+### Cancel culture
+
+## Cults
+
+## Remix
+
+## Remix culture
+
+## Culture jamming
+
+## Protesting
+
+## Megalomania
+
+## Culture
+
+## Jargon
+
+## Defeatism
+
+## Humor
+
+---
+
+# Legal
+
+## Government
+
+## Copyright
+
+## Copyleft
+
+## Trademarks
+
+## Patents
+
+---
+
+# Military
+
+## Military ethics
+
+When to not develop military software.
+
+---
+
+# Business
+
+## Corporate
+
+## Rivalries
+
+## Hostile takeover
+
+## Criminal history
+
+## Resume
+
+## Trade
+
+## Diversity
+
+## Maintainers
+
+## Bribery
+
+## Sanctions
+
+---
+
+# Health/medicine
+
+## Hippocratic oath
+
+The Hippocratic Oath must be taken to work on Seanpm2001 health/medical software of any kind.
+
+## Drugs
+
+## Medicine
+
+---
+
+# Malware
+
+## Ransomware
+
+## Malware
+
+## Spyware
+
+## DRM
+
+---
+
+# Data
+
+## User data
+
+## Telemetry and data collection
+
+## Identity theft
+
+## Tracking
+
+---
+
+# AI
+
+## Data mining
+
+## Attribution
+
+## Generated content
+
+## Misinformation
+
+## Responsibility of AI
+
+---
+
+# Old code of conduct
+
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
+
+## Our Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+ advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+ address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+ professional setting
+
+## Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at support@vlct.io. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
 
 ***
