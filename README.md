@@ -3,7 +3,7 @@
 
 # Seanpm2001 Code of Conduct
 
-# Draft 20 : 2025, June 17th
+# Draft 21 : 2025, July 10th
 
 Only the latest verified version of the code of conduct is followed. A version must be verified for at least 1 week before it is valid.
 
@@ -29,14 +29,15 @@ Only the latest verified version of the code of conduct is followed. A version m
 | Draft 18 - 2025, April 13th (❌️ unverified, too incomplete) |
 | Draft 19 - 2025, April 14th (❌️ unverified, too incomplete) |
 | Draft 20 - 2025, June 17th (❌️ unverified, too incomplete) |
+| Draft 21 - 2025, July 10th (❌️ unverified, too incomplete) |
 
+<!--
 | ℹ️ | Work here has stalled out for now, as no new updates to the code itself have been created in 15 days, yet new revisions of the document are being made daily |
 |---|---|
 | ℹ️ | - |
+!-->
 
-The deadline of April 14th to develop the CoC before publishing was not met.
-
-Work resumed on 2025, Tuesday, June 17th, after a 64 day break
+The deadline of April 14th to develop the CoC before publishing was not met. Work resumed on 2025, Tuesday, June 17th, after a 64 day break. Development is going at a slow and sporadic rate, as of 2025, July 10th
 
 | DAY | EXPANDED COUNTER |
 |---|---|
@@ -57,11 +58,35 @@ Work resumed on 2025, Tuesday, June 17th, after a 64 day break
 | 15 | V19: NO CHANGE |
 | 16-78 | NO UPDATES |
 | 79 | V20: Progress was made |
+| 80-101 | NO UPDATES |
+| 102 | V21: Small progress was made, new proposal |
 
-AI/MACHINE GENERATED CONTENT POLICY
-
-| [:octocat: `Code of conduct repository`](https://github.com/seanpm2001/Code-of-Conduct/) [:octocat: `Seanpm2001 Code of Conduct repository`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/) |
+| **💫️ Priorities:** |
 |---|
+
+- AI/Machine generated content policy: TODO
+
+> A proper AI/Machine generated content policy is needed.
+
+- Proposal 2025.07.10
+
+> Code of Conduct
+
+> > Theme zones
+
+> > > A set of conduct protocols for specific projects: if in a certain theme zone, certain language can't be used, while in another theme zone, it may be okay
+
+- Theme zone 0:
+- Theme zone 1:
+- Theme zone 2:
+- Theme zone 3:
+- Theme zone 4:
+- Theme zone 5:
+- Theme zone 6:
+- Theme zone 7:
+
+| [:octocat: `Code of conduct repository`](https://github.com/seanpm2001/Code-of-Conduct/) | [:octocat: `Seanpm2001 Code of Conduct repository`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/) |
+|---|---|
 | In use | Development |
 
 # PREAMBLE
