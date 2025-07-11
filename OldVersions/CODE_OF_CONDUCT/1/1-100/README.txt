@@ -3,7 +3,7 @@
 
 # Seanpm2001 Code of Conduct
 
-# Draft 19 : 2025, April 14th
+# Draft 21 : 2025, July 10th
 
 Only the latest verified version of the code of conduct is followed. A version must be verified for at least 1 week before it is valid.
 
@@ -28,12 +28,16 @@ Only the latest verified version of the code of conduct is followed. A version m
 | Draft 17 - 2025, April 12th (❌️ unverified, too incomplete) |
 | Draft 18 - 2025, April 13th (❌️ unverified, too incomplete) |
 | Draft 19 - 2025, April 14th (❌️ unverified, too incomplete) |
+| Draft 20 - 2025, June 17th (❌️ unverified, too incomplete) |
+| Draft 21 - 2025, July 10th (❌️ unverified, too incomplete) |
 
+<!--
 | ℹ️ | Work here has stalled out for now, as no new updates to the code itself have been created in 15 days, yet new revisions of the document are being made daily |
 |---|---|
 | ℹ️ | - |
+!-->
 
-The deadline of April 14th to develop the CoC before publishing was not met.
+The deadline of April 14th to develop the CoC before publishing was not met. Work resumed on 2025, Tuesday, June 17th, after a 64 day break. Development is going at a slow and sporadic rate, as of 2025, July 10th
 
 | DAY | EXPANDED COUNTER |
 |---|---|
@@ -52,11 +56,37 @@ The deadline of April 14th to develop the CoC before publishing was not met.
 | 13 | V17: NO CHANGE |
 | 14 | V18: NO CHANGE |
 | 15 | V19: NO CHANGE |
+| 16-78 | NO UPDATES |
+| 79 | V20: Progress was made |
+| 80-101 | NO UPDATES |
+| 102 | V21: Small progress was made, new proposal |
 
-AI/MACHINE GENERATED CONTENT POLICY
-
-| [:octocat: `Code of conduct repository`](https://github.com/seanpm2001/Code-of-Conduct/) [:octocat: `Seanpm2001 Code of Conduct repository`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/) |
+| **💫️ Priorities:** |
 |---|
+
+- AI/Machine generated content policy: TODO
+
+> A proper AI/Machine generated content policy is needed.
+
+- Proposal 2025.07.10
+
+> Code of Conduct
+
+> > Theme zones
+
+> > > A set of conduct protocols for specific projects: if in a certain theme zone, certain language can't be used, while in another theme zone, it may be okay
+
+- Theme zone 0:
+- Theme zone 1:
+- Theme zone 2:
+- Theme zone 3:
+- Theme zone 4:
+- Theme zone 5:
+- Theme zone 6:
+- Theme zone 7:
+
+| [:octocat: `Code of conduct repository`](https://github.com/seanpm2001/Code-of-Conduct/) | [:octocat: `Seanpm2001 Code of Conduct repository`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/) |
+|---|---|
 | In use | Development |
 
 # PREAMBLE
@@ -305,57 +335,113 @@ Attribution is extremely important for any project. Plagiarism is not tolerated.
 
 ## Bug reporting
 
+Coming soon
+
 ## Security reporting
+
+Coming soon
 
 ## Source code comments
 
+Coming soon
+
 ## Source code style
+
+See source code style guides: [:octocat: `seanpm2001/SourceCode_StyleGuide`](https://github.com/seanpm2001/SourceCode_StyleGuide/)
+
+Source code must follow the source code style guide of the language it is written in.
 
 ## Schedules
 
+Coming soon
+
 ## Maintenance
 
+Coming soon
+
 ## Discussions
+
+Coming soon
 
 ## Issues
 
+Coming soon
+
 ## Pull requests
+
+Coming soon
 
 ## Merging
 
+Coming soon
+
 ## Spelling and grammar
+
+Coming soon
 
 ## Release schedule
 
+Coming soon
+
 ## Errors
+
+Coming soon
 
 ## Forks
 
+Coming soon
+
 ## Stars
+
+Coming soon
 
 ## Software testing
 
+Coming soon
+
 ## Tagging
+
+Coming soon
 
 ## Discussions
 
+Coming soon
+
 ## Time
+
+Coming soon
 
 ## Moderation
 
+Coming soon
+
 ## RFCs
+
+Coming soon
 
 ## Archival
 
+Coming soon
+
 ## Services
+
+Coming soon
 
 ## Software
 
+Coming soon
+
 ## Software platforms
+
+Coming soon
 
 ## Other sites
 
+Coming soon
+
 ## OS platforms
+
+Coming soon
 
 ---
 
@@ -363,228 +449,417 @@ Attribution is extremely important for any project. Plagiarism is not tolerated.
 
 ## Slurs
 
+Coming soon
+
 ## Trolling
+
+Coming soon
 
 ## Bullying
 
+Coming soon
+
 ## Intimidation
+
+Coming soon
 
 ## Blackmail
 
+Coming soon
+
 ## Violence
+
+Coming soon
 
 ## Threats
 
+Coming soon
+
 ## Sexism
+
+Coming soon
 
 ## Slavery
 
+Coming soon
+
 ## Master and main
+
+Coming soon
 
 ## Segregation
 
+Coming soon
+
 ## Profanity
 
+Coming soon
+
 ## Age
+
+Coming soon
 
 ---
 
 # Symbols
 
+Coming soon
+
 ## Hate symbols
 
-
+Coming soon
 
 ---
 
 # Sexuality
 
+Coming soon
+
 ## Gender
+
+Coming soon
 
 ## Sexual orientation
 
+Coming soon
+
 ## Erotica
+
+Coming soon
 
 ## Pornography
 
+Coming soon
+
 ## Acceptance
+
+Coming soon
 
 ## Consent
 
+Coming soon
 
 ---
 
 # Politics
 
+Coming soon
+
 ## Allegiance
+
+Coming soon
 
 ## Nationalism
 
+Coming soon
+
 ## Supremacy
+
+Coming soon
 
 ## Voting
 
+Coming soon
+
 ## Fascism
+
+Coming soon
 
 ---
 
 # Manipulation
 
+Coming soon
+
 ## Phishing
+
+Coming soon
 
 ---
 
 # Monetization
 
+Coming soon
+
 ## Cryptomining
+
+Coming soon
 
 ## Paywalls
 
+Coming soon
+
 ## Advertising
+
+Coming soon
 
 ### Adblocking
 
+Coming soon
+
 ## Sponsors
+
+Coming soon
 
 ---
 
 # Teams and teamwork
 
+Coming soon
+
 ## Working Groups
+
+Coming soon
 
 ## Steering group
 
+Coming soon
+
 ## Competition
+
+Coming soon
 
 ---
 
 # Publicity
 
+Coming soon
+
 ## Criticism
+
+Coming soon
 
 ## Proprietary
 
+Coming soon
+
 ## Secrecy
+
+Coming soon
 
 ## Leaks
 
+Coming soon
+
 ## Blocks
+
+Coming soon
 
 ## Blocklists
 
+Coming soon
+
 ## Contact
+
+Coming soon
 
 ## Email
 
+Coming soon
+
 ## Contributions
 
+Coming soon
+
 ## Language
+
+Coming soon
 
 ---
 
 # Misinformation
 
+Coming soon
+
 ## Conspiracy theories
 
+Coming soon
+
 ## Fact checking
+
+Coming soon
 
 ---
 
 # Beliefs
 
+Coming soon
+
 ## Religion
 
+Coming soon
+
 ## Irreligion
+
+Coming soon
 
 ---
 
 # Expression
 
+Coming soon
+
 ## Begging
+
+Coming soon
 
 ## Humility
 
+Coming soon
+
 ## Anger
+
+Coming soon
 
 ## Sadness
 
+Coming soon
+
 ## Depression
+
+Coming soon
 
 ## Shame
 
+Coming soon
+
 ### Shaming
+
+Coming soon
 
 ### Cancel culture
 
+Coming soon
+
 ## Cults
+
+Coming soon
 
 ## Remix
 
+Coming soon
+
 ## Remix culture
+
+Coming soon
 
 ## Culture jamming
 
+Coming soon
+
 ## Protesting
+
+Coming soon
 
 ## Megalomania
 
+Coming soon
+
 ## Culture
+
+Coming soon
 
 ## Jargon
 
+Coming soon
+
 ## Defeatism
 
+Coming soon
+
 ## Humor
+
+Coming soon
 
 ---
 
 # Legal
 
+Coming soon
+
 ## Government
+
+Coming soon
 
 ## Copyright
 
+Coming soon
+
 ## Copyleft
+
+Coming soon
 
 ## Trademarks
 
+Coming soon
+
 ## Patents
+
+Coming soon
 
 ---
 
 # Military
 
+Coming soon
+
 ## Military ethics
 
-When to not develop military software.
+When to not develop military software:
+
+Coming soon
 
 ---
 
 # Business
 
+Coming soon
+
 ## Corporate
+
+Coming soon
 
 ## Rivalries
 
+Coming soon
+
 ## Hostile takeover
+
+Hostile takeovers of an organization are not allowed. Nobody should be able to hijack your company through stocks, monetary payments, or other means. Once the company is hijacked by a hostile takeover, it is usually gutted and destroyed, and never reaches its former glory.
 
 ## Criminal history
 
+Coming soon
+
 ## Resume
+
+Coming soon
 
 ## Trade
 
+Coming soon
+
 ## Diversity
+
+Coming soon
 
 ## Maintainers
 
+Coming soon
+
 ## Bribery
 
+Coming soon
+
 ## Sanctions
+
+Coming soon
 
 ---
 
 # Health/medicine
+
+Coming soon
 
 ## Hippocratic oath
 
@@ -592,45 +867,107 @@ The Hippocratic Oath must be taken to work on Seanpm2001 health/medical software
 
 ## Drugs
 
+Coming soon
+
 ## Medicine
+
+Coming soon
 
 ---
 
 # Malware
 
+Malware can be developed, but it must follow the following rules. It is also a weird situation these projects are in,where anti-malware is being developed alongside malware, although the malware created is meant to have a fun side, and not be fully destructive and unethical.
+
 ## Ransomware
+
+Ransomware cannot be created. It is an entirely pointless form of malware, as it is designed to steal money, threaten users, and cause damage, and offers no creative payload.
 
 ## Malware
 
+See also: [:octocat: `seanpm2001/Malware-as-art`](https://github.com/seanpm2001/Malware-as-art/)
+
+Some malware can be created, but it must be optional. It must contain proper notice that it is malicious, and have multiple steps to prevent it from being run, as it warns the user. Malware is made to exist in virtual machines, and cannot contain anti-VM code. Malware cannot be created solely for the purpose of unethical destruction, it must have a purpose.
+
+Types of malware that are not allowed:
+
+- DRM (Digitial Restrictions Management/Digital Restrictive Measures) 
+- Ransomware
+- Spyware
+
 ## Spyware
 
+Spyware cannot be created, as it violates the privacy of users, and steals user data.
+
 ## DRM
+
+See also: [:octocat: `seanpm2001/DRM`](https://github.com/seanpm2001/DRM/) and [`DefectiveByDesign`](https://www.defectivebydesign.org/)
+
+DRM (Digital Restrictions Management/Digital Restrictive Measures) is absolutely unacceptable on any free software/open source project. DRM is antithetical to the world of ethical and free software, and should not be used on any project. DRM takes away the users freedom, and puts up barriers to the preservation of digital data.
 
 ---
 
 # Data
 
+Coming soon
+
 ## User data
+
+Coming soon
 
 ## Telemetry and data collection
 
+Coming soon
+
 ## Identity theft
 
+Coming soon
+
 ## Tracking
+
+Coming soon
 
 ---
 
 # AI
 
+An AI (Artificial Intelligence) is a software system that is trained on data through machine learning. It may not actually be intelligent, but it is artificial.
+
+See also: [GNU: Words to avoid§ArtificialIntelligence](https://www.gnu.org/philosophy/words-to-avoid.html#ArtificialIntelligence)
+
+This definition is a work in progress.
+
 ## Data mining
 
-## Attribution
+Data mining must be done with user consent, and it cannot be done on private data. Data mining can only be done on sources with Copyleft-compatible, or public domain licenses, and any data used in the mining process must be made publicly available alongside the AI program.
+
+## Attribution (AI)
+
+Attribution is key. Anything created with AI must be properly attributed 
+
+## Ownership
+
+Any content created by an AI is owned by the AI tool, which will commit this data into the public domain. The developer of the AI program gets limited credit (just a mention that their AI tool was used to generate this data) while the training sources used get full credit for the generated content.
 
 ## Generated content
 
+Generated content is okay in moderation. Any generated content must explicitly be labeled as generated content, and it should not make up the bulk of a project, unless it is a project that is solely about generated content (such as a repository with generated images)
+
 ## Misinformation
 
+See also: [§Deepfakes](#Deepfakes)
+
+Misinformation with AI must be addressed. An AI tool cannot be purposefully made to spread misinformation, even when prompted to do so. Fact checking from reliable sources is required, and disclaimers must be added.
+
 ## Responsibility of AI
+
+See: [§Ownership](#Ownership)
+
+Section needs expansion.
+
+## Deepfakes
+
+Deepfakes are a core problem with Artificial Intelligence that a solution for needs to be worked on. Developers should not create deepfakes that can damage someones reputation without proper reason (such as criticism) spread misinformation, cause physical harm, or raise an issue with identity theft. Software should not be developed that produces deepfakes, if it violates these rules.
 
 ---
 
