@@ -1,4 +1,5 @@
-
+# @PRAIAI & @RFOF-NETWORK #BUBATZMANAGERAIprojectX
+(The Code of Conduct was created and most of the content developed so far by @seanpm2001)
 ***
 
 # Seanpm2001 Code of Conduct
